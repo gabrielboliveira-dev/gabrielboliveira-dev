@@ -1,7 +1,7 @@
 ![alt text](banner.png)
 
 <h1 align="center">
-  Bem-Vindos ao meu GitHub! <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" width="32" height="32">
+  Bem-Vindo ao meu GitHub! <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" width="32" height="32">
 </h1>
 
 ![alt text](line.png)
