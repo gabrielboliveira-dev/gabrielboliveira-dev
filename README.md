@@ -4,11 +4,7 @@
   Bem-Vindos ao meu GitHub! <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" width="32" height="32">
 </h1>
 
-<br>
-
 ![alt text](line.png)
-
----
 
 <h3 align="center">
   Sobre mim
@@ -20,7 +16,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" width="25" height="25" /> Diretamente do coração do Sertão, de Serra Talhada! Sou um entusiasta da Astrofísica que adora compartilhar conhecimento, absorver novas ideias e usar a tecnologia como ponte para um futuro melhor.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" width="25" height="25" /> Se você também é apaixonado(a) por tecnologia, ciência, educação ou está planejando os próximos passos na carreira, adoraria conectar! Me manda um "oi" em um dos meus links abaixo e vamos bater um papo inspirador!
 
----
+![alt text](line.png)
 
 <h3 align="center">
   Tecnologias que utilizo
@@ -30,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,spring,python,mysql,postgres,mongodb,git,github,npm,docker,vscode,idea,figma" />
 </p>
 
----
+![alt text](line.png)
 
 <h3 align="center">
   Filosofia de Vida
@@ -52,7 +48,7 @@ const vida = {
 };
 ```
 
----
+![alt text](line.png)
 
 <h3 align="center">
   Estatísticas
@@ -65,7 +61,7 @@ const vida = {
   </a> 
 </p>
 
----
+![alt text](line.png)
 
 <h3 align="center">
   Vamos Conectar!
