@@ -4,6 +4,10 @@
   Bem-Vindos ao meu GitHub! <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" width="32" height="32">
 </h1>
 
+<br>
+
+![alt text](line.png)
+
 ---
 
 <h3 align="center">
@@ -56,15 +60,15 @@ const vida = {
 
 <p align="center"> 
   <a href="https://github.com/gabrielboliveira-dev"> 
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielboliveira-dev&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" alt="GitHub Stats Gabriel" /> 
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboliveira-dev&layout=compact&langs_count=8&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" alt="Top Langs Gabriel" /> 
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielboliveira-dev&show_icons=true&count_private=true&title_color=eee0cb&icon_color=eee0cb&text_color=eee0cb&bg_color=2d2d2d&border_color=eee0cb&rank_icon=percentile" alt="GitHub Stats Gabriel" /> 
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboliveira-dev&layout=compact&langs_count=8&title_color=eee0cb&text_color=eee0cb&bg_color=2d2d2d&border_color=eee0cb" alt="Top Langs Gabriel" /> 
   </a> 
 </p>
 
 ---
 
 <h3 align="center">
-  Contatos
+  Vamos Conectar!
 </h3>
 
 <p align="center">
