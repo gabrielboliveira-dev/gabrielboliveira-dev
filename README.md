@@ -4,7 +4,9 @@
 
 ---
 
-## Sobre mim
+<h3 align="center">
+  Sobre mim
+</h3>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" width="25" height="25" /> Meu nome é **Gabriel Bezerra de Oliveira**, sou formado em Física e pós-graduado em Biofísica e Engenharia de Software.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" /> Com a cabeça cheia de ideias e o foco no futuro, estou cursando pós-graduação em **Business Intelligence, Big Data e IA.** Minha meta? Alcançar o nível de **Staff Software Engineer** com maestria em **Java e Spring.** Ansioso para transformar conhecimento em impacto real!  
@@ -14,7 +16,9 @@
 
 ---
 
-### Tecnologias que utilizo
+<h3 align="center">
+  Tecnologias que utilizo
+</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,spring,python,mysql,postgres,mongodb,git,github,npm,docker,vscode,idea,figma" />
@@ -22,7 +26,9 @@
 
 ---
 
-### Filosofia de Vida
+<h3 align="center">
+  Filosofia de Vida
+</h3>
 
 ```javascript
 function coracaoNordestino(intensidadeDaDor) {
@@ -42,7 +48,9 @@ const vida = {
 
 ---
 
-### Estatísticas
+<h3 align="center">
+  Estatísticas
+</h3>
 
 <p align="center"> 
   <a href="https://github.com/gabrielboliveira-dev"> 
@@ -53,7 +61,9 @@ const vida = {
 
 ---
 
-### Contatos
+<h3 align="center">
+  Contatos
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-oliveira-2040771b4/" target="_blank">
