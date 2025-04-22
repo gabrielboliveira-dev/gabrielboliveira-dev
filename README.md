@@ -11,10 +11,22 @@
 </h2>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" width="25" height="25" /> Meu nome é **Gabriel Bezerra de Oliveira**, sou formado em Física e pós-graduado em Biofísica e Engenharia de Software.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" /> Com a cabeça cheia de ideias e o foco no futuro, estou cursando pós-graduação em **Business Intelligence, Big Data e IA.** Minha meta? Alcançar o nível de **Staff Software Engineer** com maestria em **Java e Spring.** Ansioso para transformar conhecimento em impacto real!  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" /> Com a cabeça cheia de ideias e o foco no futuro, estou cursando pós-graduação em **Business Intelligence, Big Data e IA.** Minha meta? Alcançar o nível de **Staff Software Engineer**, dominando o ecossistema **Java com Spring Boot no back-end** e **React no front-end** — desenvolvendo soluções robustas, escaláveis e com experiências excepcionais. 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" /> Minha jornada é uma fusão apaixonante de ensinar Física, coordenar o mundo da TI e construir software inovador. Sou movido pela magia de desvendar o universo, a precisão da lógica computacional e a alegria de criar algo novo.  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" width="25" height="25" /> Diretamente do coração do Sertão, de Serra Talhada! Sou um entusiasta da Astrofísica que adora compartilhar conhecimento, absorver novas ideias e usar a tecnologia como ponte para um futuro melhor.  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" width="25" height="25" /> Se você também é apaixonado(a) por tecnologia, ciência, educação ou está planejando os próximos passos na carreira, adoraria conectar! Me manda um "oi" em um dos meus links abaixo e vamos bater um papo inspirador!
+
+![alt text](line.png)
+
+<h2 align="center">
+  Projetos em Destaque
+</h2>
+
+🔹 [**web-catalog-premocil**](https://github.com/gabrielboliveira-dev/web-catalog-premocil)  
+Aplicação web de catálogo de produtos com React + Vite, focada em performance, responsividade e experiência do usuário.
+
+🔹 [**spring-finance-manager**](https://github.com/gabrielboliveira-dev/spring-finance-manager)  
+Sistema de gerenciamento financeiro pessoal usando Java, Spring Boot e PostgreSQL, com autenticação, dashboards e lógica de metas.
 
 ![alt text](line.png)
 
@@ -33,6 +45,10 @@
   <img src="https://skillicons.dev/icons?i=docker,git,github" /><br>
   <!-- IDEs e Design -->
   <img src="https://skillicons.dev/icons?i=vscode,idea,figma" />
+</p>
+
+<p align="center">
+  Atualmente, meu foco está no desenvolvimento de aplicações completas com Java + Spring Boot no back-end e React + JavaScript no front-end, sempre aplicando boas práticas, testes automatizados e deploy com Docker.
 </p>
 
 ![alt text](line.png)
