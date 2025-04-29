@@ -36,7 +36,7 @@ Sistema de gerenciamento financeiro pessoal usando Java, Spring Boot e PostgreSQ
 
 <p align="center">
   <!-- Front-End -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" /><br>
   <!-- Back-End -->
   <img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,express" /><br>
   <!-- Bancos de Dados -->
@@ -48,7 +48,7 @@ Sistema de gerenciamento financeiro pessoal usando Java, Spring Boot e PostgreSQ
 </p>
 
 <p>
-  Atualmente, meu foco está no desenvolvimento de aplicações completas com Java + Spring Boot no back-end e React + JavaScript no front-end, sempre aplicando boas práticas, testes automatizados e deploy com Docker.
+  Atualmente, meu foco está no desenvolvimento de aplicações fullstack, utilizando Java + Spring Boot e Node.js no back-end, além de React, Vue.js e Quasar no front-end. Estou aprofundando meus conhecimentos em TypeScript, testes automatizados, arquitetura limpa e deploy com Docker.
 </p>
 
 ![alt text](line.png)
