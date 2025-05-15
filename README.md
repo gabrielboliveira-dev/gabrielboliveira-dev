@@ -1,10 +1,10 @@
-![alt text](banner.png)
+![alt text](Assets/Banner.png)
 
 <h1 align="center">
   Bem-Vindo ao meu GitHub!
 </h1>
 
-![alt text](line.png)
+![alt text](Assets/Line.png)
 
 <h2 align="center">
   Sobre mim
@@ -16,7 +16,7 @@
 - Diretamente do coração do Sertão, de Serra Talhada! Sou um entusiasta da Astrofísica que adora compartilhar conhecimento, absorver novas ideias e usar a tecnologia como ponte para um futuro melhor.<br>
 - Se você também é apaixonado(a) por tecnologia, ciência, educação ou está planejando os próximos passos na carreira, adoraria conectar! Me manda um "oi" em um dos meus links abaixo e vamos bater um papo inspirador!
 
-![alt text](line.png)
+![alt text](Assets/Line.png)
 
 <h2 align="center">
   Projetos em Destaque
@@ -28,7 +28,7 @@ Aplicação web de catálogo de produtos com React + Vite, focada em performance
 🔹 [**spring-finance-manager**](https://github.com/gabrielboliveira-dev/spring-finance-manager)  
 Sistema de gerenciamento financeiro pessoal usando Java, Spring Boot e PostgreSQL, com autenticação, dashboards e lógica de metas.
 
-![alt text](line.png)
+![alt text](Assets/Line.png)
 
 <h2 align="center">
   Tecnologias que utilizo
@@ -51,7 +51,7 @@ Sistema de gerenciamento financeiro pessoal usando Java, Spring Boot e PostgreSQ
   Atualmente, meu foco está no desenvolvimento de aplicações fullstack, utilizando Java + Spring Boot e Node.js no back-end, além de React, Vue.js e Quasar no front-end. Estou aprofundando meus conhecimentos em TypeScript, testes automatizados, arquitetura limpa e deploy com Docker.
 </p>
 
-![alt text](line.png)
+![alt text](Assets/Line.png)
 
 <h2 align="center">
   Filosofia de Vida
@@ -73,7 +73,7 @@ const vida = {
 };
 ```
 
-![alt text](line.png)
+![alt text](Assets/Line.png)
 
 <h2 align="center">
   Estatísticas
@@ -86,7 +86,7 @@ const vida = {
   </a> 
 </p>
 
-![alt text](line.png)
+![alt text](Assets/Line.png)
 
 <h2 align="center">
   Vamos Conectar!
