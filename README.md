@@ -95,14 +95,14 @@ const vida = {
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-oliveira-2040771b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Oliveira-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+  </a><br>
   <a href="mailto:gabrielgbo00@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-gabrielgbo00@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+  </a><br>
   <a href="https://www.instagram.com/gabrielboliveira__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@gabrielboliveira__-purple?style=for-the-badge&logo=instagram" alt="Instagram">
-  </a>
+  </a><br>
   <a href="https://wa.me/5587996296168" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
+  </a><br>
 </p>
