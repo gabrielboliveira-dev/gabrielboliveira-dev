@@ -89,7 +89,7 @@ const vida = {
 ![alt text](Assets/Line.png)
 
 <h2 align="center">
-  Vamos Conectar!
+  Vamos Nos Conectar!
 </h2>
 
 <p align="center">
