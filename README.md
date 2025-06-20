@@ -1,7 +1,7 @@
 ![alt text](Assets/Banner.png)
 
 <h1 align="center">
-  Bem-Vindo ao meu GitHub!
+  Olá, mundo! Eu sou Gabriel e seja bem-vindo ao meu GitHub!
 </h1>
 
 ![alt text](Assets/Line.png)
