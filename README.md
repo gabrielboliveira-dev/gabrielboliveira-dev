@@ -7,7 +7,7 @@
 ![alt text](Assets/Line.png)
 
 <h2 align="center">
-  Sobre mim
+  Sobre Mim
 </h2>
 
 - Meu nome é **Gabriel Bezerra de Oliveira**, sou formado em Física e pós-graduado em Biofísica e Engenharia de Software.<br>
