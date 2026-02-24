@@ -11,7 +11,7 @@
 </h2>
 
 - Meu nome é **Gabriel Bezerra de Oliveira**, sou formado em Física e pós-graduado em Biofísica e Engenharia de Software.<br>
-- Atualmente, estou cursando **graduação em Análise e Desenvolvimento de Sistemas** e finalizando minha **pós-graduação em Business Intelligence, Big Data e IA.** Minha meta? Alcançar o nível de **Staff Software Engineer**, dominando o ecossistema **Java com Spring Boot no back-end** e **React no front-end**, desenvolvendo soluções robustas, escaláveis e com experiências excepcionais.<br>
+- Atualmente, estou cursando **graduação em Análise e Desenvolvimento de Sistemas.** Minha meta? Alcançar o nível de **Staff Software Engineer**, dominando o ecossistema **Java com Spring Boot no back-end**, desenvolvendo soluções robustas, escaláveis e com experiências excepcionais.<br>
 - Minha jornada é uma fusão apaixonante de ensinar Física, coordenar o mundo da TI e construir software inovador. Sou movido pela magia de desvendar o universo, a precisão da lógica computacional e a alegria de criar algo novo.<br>
 - Diretamente do coração do Sertão, de Serra Talhada! Sou um entusiasta da Astrofísica que adora compartilhar conhecimento, absorver novas ideias e usar a tecnologia como ponte para um futuro melhor.<br>
 - Se você também é apaixonado(a) por tecnologia, ciência, educação ou está planejando os próximos passos na carreira, adoraria conectar! Me manda um "oi" em um dos meus links abaixo e vamos bater um papo inspirador!
