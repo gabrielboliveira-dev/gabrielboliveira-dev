@@ -17,7 +17,7 @@
 Sou um desenvolvedor movido pela fusão entre a precisão científica e a lógica computacional. Minha trajetória começou na **Física**, passou por uma pós-graduação em **Biofísica e Engenharia de Software**, e hoje graduando em **Análise e Desenvolvimento de Sistemas** dedico minha carreira à construção de soluções tecnológicas escaláveis e de alto impacto.
 
 - 🎯 **Objetivo:** Alcançar o nível de **Staff Software Engineer**, projetando arquiteturas resilientes e de alta performance.
-- 💻 **Stack Principal:** Focado no ecossistema **Java com Spring Boot**, aplicando princípios de **Clean Architecture**, **Domain-Driven Design (DDD)** e **microsserviços**.
+- 💻 **Stack Principal:** Focado no ecossistema **Java com Spring Boot**, aplicando princípios de **Clean Architecture**, **MVC** e **microsserviços**.
 - 🚀 **O que estou construindo:** Atualmente, estou no desenvolvimento de sistemas para gestão pública e estou resolvendo algumas dores minhas com projetos pessoais.
 - 📚 **Aprendizado Contínuo:** Resolvo problemas diariamente no LeetCode para afiar meus fundamentos em Estrutura de Dados e Algoritmos. 
 - 🌌 **Além do código:** Sou um entusiasta da Astrofísica, ensino e acredito fortemente na tecnologia como ponte para a transformação social e educação.
