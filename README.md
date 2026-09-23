@@ -73,7 +73,7 @@ Se você também é apaixonado(a) por tecnologia, ciência, educação ou quer b
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-oliveira-2040771b4/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielboliveiraa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Oliveira-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a><br>
   <a href="mailto:gabrielgbo00@gmail.com">
